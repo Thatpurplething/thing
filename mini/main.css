@@ -1,0 +1,26 @@
+nav ul {list-style-type: none; margin: 0; padding: 0; overflow: hidden; background-color: #7BE0AD;}
+nav li {float: left;}
+nav li a {display: block; color: #00241B; text-align: center; padding: 14px 16px; text-decoration: none;}
+nav li a:hover {background-color: #AEE5D8;}
+body {background-image: url(webtreatsetc-6.jpg)}
+h1 {color: #AEE5D8;}
+p {color: #AEE5D8;}
+table, th, td {border: 3px solid black; border-collapse: collapse;}
+table {background-image: url(iii.jpg); color:aquamarine}
+td {text-align: center;}
+th, td {padding: 17px;}
+tr:hover {background-color: #d88edb;}
+td:hover {background-color: #d9a4db;}
+#k {width: 150px; height: 100px; background-color: magenta; border: 3px solid blue; transition: width 2s ease-out, background 2s, border, 2s}
+#k:hover {width: 300px; background: teal; border: 3px solid aqua;}
+#wow {font-size: 150px; color: black; background-image: url(download.jpeg); width: 680px; border: 3px solid black; transition: transform 2s;}
+#wow:hover {transform: rotate(5678deg); background-image: url(rtffggh.jpg); color: limegreen;}
+img:hover {transform: rotate(90deg); transition: transform 10s;}
+i {color: white; font-size: 40px;}
+.yaa {color: white; font-size: 59px; text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #9842f4, 0 0 30px #9842f4, 0 0 40px #9842f4, 0 0 55px #9842f4, 0 0 75px #9842f4;}
+@keyframes example {0% {background-color: red;} 25% {background-color: yellow;} 50% {background-color: blue;} 100% {background-color: green;}}
+#ani {width: 100px; height: 100px; background-color: red; animation-name: example; animation-duration: 4s;}
+#yaa {width: 100px; height: 100px; background-color: red; animation-name: example; animation-duration: 4s;}
+#du {width: 100px; height: 100px; background-color: red; animation-name: example; animation-duration: 4s;}
+h2 {color: cadetblue;}
+h3 {color: cornflowerblue;}
